@@ -19,4 +19,4 @@ var findanelement = array1.find(function (element) {
 });
 console.log(findanelement);
 
-//lind 22
+//line 22
