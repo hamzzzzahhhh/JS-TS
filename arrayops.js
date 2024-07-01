@@ -18,3 +18,5 @@ var findanelement = array1.find(function (element) {
     return element === 'Apples';
 });
 console.log(findanelement);
+
+//lind 22
